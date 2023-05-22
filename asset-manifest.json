@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-expense-filter/static/css/main.0fb7839a.css",
+    "main.js": "/react-expense-filter/static/js/main.88bfec4e.js",
+    "index.html": "/react-expense-filter/index.html",
+    "main.0fb7839a.css.map": "/react-expense-filter/static/css/main.0fb7839a.css.map",
+    "main.88bfec4e.js.map": "/react-expense-filter/static/js/main.88bfec4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb7839a.css",
+    "static/js/main.88bfec4e.js"
+  ]
+}
